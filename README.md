@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+
+imagews ------- 
+https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif
+https://www.accunityservices.com/img/coding.gif  
+https://i.pinimg.com/originals/39/69/e7/3969e78d0ac84312a051deb4cda4dc0d.gif
+https://media1.giphy.com/avatars/404academy/kGwR3uDrUKPI.gif
+https://www.kali.org/wp-content/uploads/2019/11/kali-preview-boot.gif
 -->
 
 <h1 align="center">Hi 👋, I'm Tharana_👇</h1>
