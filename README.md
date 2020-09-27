@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharana" alt="tharana" /> </p>
 
-<img align="right" alt="GIF" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<img align="right" alt="GIF" width ="100" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 - 🔭 I’m currently studying as an **Undergraduate**
 
