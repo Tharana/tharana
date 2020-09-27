@@ -1,7 +1,8 @@
+<!--
 ### Hi there 👋
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-<!--
+
 **Tharana/tharana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 -->
 
 <h1 align="center">Hi 👋, I'm Tharana_👇</h1>
@@ -21,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharana" alt="tharana" /> </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 - 🔭 I’m currently studying as an **Undergraduate**
 
