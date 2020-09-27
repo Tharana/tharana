@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharana" alt="tharana" /> </p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🔭 I’m currently studying as an **Undergraduate**
 
 - 🌱 I’m currently learning **Web application security and Cryptography**
