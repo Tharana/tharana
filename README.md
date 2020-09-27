@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharana&layout=compact" alt="tharana" /></p>
 <br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharana&show_icons=true" alt="tharana" /></p>
 
 <p align="center">
