@@ -65,6 +65,7 @@ https://www.kali.org/wp-content/uploads/2019/11/kali-preview-boot.gif
 <a href="https://www.hackerrank.com/tharanahansaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tharanahansaja" height="30" width="30" /></a>
 </p>
 
+![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=VedantKhairnar&hide=["issues"]&show_icons=true)
 
 
 
