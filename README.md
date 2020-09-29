@@ -61,3 +61,29 @@ https://www.kali.org/wp-content/uploads/2019/11/kali-preview-boot.gif
 <a href="https://instagram.com/tharanahansaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tharanahansaja" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/tharanahansaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tharanahansaja" height="30" width="30" /></a>
 </p>
+
+
+
+<body>
+    <label id="lblGreetings"></label>
+</body>
+
+<script>
+    var myDate = new Date();
+    var hrs = myDate.getHours();
+
+    var greet;
+
+    if (hrs < 12)
+        greet = 'Good Morning';
+    else if (hrs >= 12 && hrs <= 17)
+        greet = 'Good Afternoon';
+    else if (hrs >= 17 && hrs <= 24)
+        greet = 'Good Evening';
+
+    document.getElementById('lblGreetings').innerHTML =
+        '<b>' + greet + '</b> and welcome to Encodedna.com!';
+</script> 
+
+
+
