@@ -53,7 +53,7 @@ https://www.kali.org/wp-content/uploads/2019/11/kali-preview-boot.gif
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharana&show_icons=true" alt="tharana" /></p>
 
   
-$ curl "http://worldtimeapi.org/api/timezone"
+
   
 
 <p align="center">
