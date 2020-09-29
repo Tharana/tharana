@@ -53,7 +53,24 @@ https://www.kali.org/wp-content/uploads/2019/11/kali-preview-boot.gif
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharana&show_icons=true" alt="tharana" /></p>
 
   
-  
+  function getGreetingTime (m) {
+	var g = null; //return g
+	
+	if(!m || !m.isValid()) { return; } //if we can't find a valid or filled moment, we return.
+	
+	var split_afternoon = 12 //24hr time to split the afternoon
+	var split_evening = 17 //24hr time to split the evening
+	var currentHour = parseFloat(m.format("HH"));
+	
+	if(currentHour >= split_afternoon && currentHour <= split_evening) {
+		g = "afternoon";
+	} else if(currentHour >= split_evening) {
+		g = "evening";
+	} else {
+		g = "morning";
+	}
+	
+	return g;
   
 
 <p align="center">
@@ -66,21 +83,5 @@ https://www.kali.org/wp-content/uploads/2019/11/kali-preview-boot.gif
 </p>
 
 
-
-<script type="text/javascript">
-        document.write("<center><font size=+3 style='color: green;'>");
-        var day = new Date();
-        var hr = day.getHours();
-        if (hr >= 0 && hr < 12) {
-            document.write("Good Morning!");
-        } else if (hr == 12) {
-            document.write("Good Noon!");
-        } else if (hr >= 12 && hr <= 17) {
-            document.write("Good Afternoon!");
-        } else {
-            document.write("Good Evening!");
-        }
-        document.write("</font></center>");
-    </script>
 
 
