@@ -47,7 +47,7 @@ imagews -------
 
 - 📫 How to reach me **tharanahansaja@gmail.com**
 
-- 📘 My Web Site (GUI) - https://tharanahansaja.ml
+- 📘 My Web Site (GUI) - https://hansaja.me
 
 - 📓 My Web Site(CLI) - https://tharanahansaja.ml/terminal
 
