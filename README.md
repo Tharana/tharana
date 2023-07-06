@@ -31,7 +31,10 @@ imagews -------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharana" alt="tharana" /> </p>
 
-<img align="right" alt="GIF" width ="350" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<!--<img align="right" alt="GIF" width ="350" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /> -->
+<img align="right" alt="GIF" width ="350" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" />
+
+
 
 - 🔭 I’m currently studying as an **Undergraduate**
 
