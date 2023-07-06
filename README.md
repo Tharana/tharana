@@ -66,7 +66,7 @@ imagews -------
   
 
 <p align="center">
-<a href="https://twitter.com/tharanahansaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tharanahansaja" height="30" width="30" /></a>
+<a href="https://twitter.com/tharanahansaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tharanahansaja" height="30" width="30" /></a>     
 <a href="https://linkedin.com/in/tharana-hansaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tharana-hansaja" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/tharana-hansaja-weerasingha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tharana-hansaja-weerasingha" height="30" width="30" /></a>
 <a href="https://fb.com/tharana.hansaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tharana.hansaja" height="30" width="30" /></a>
