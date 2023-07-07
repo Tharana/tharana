@@ -36,7 +36,7 @@ imagews -------
 
 
 
-- 🔭 I’m currently studying as an **Undergraduate**
+- 🔭 I'm currently working as **Cyber Security Engineer**
 
 - 🌱 I’m currently learning **Web application security and Cryptography**
 
@@ -44,13 +44,13 @@ imagews -------
 
 - 🤝 I’m looking for help with **Pentesting**
 
-- 📝 I regulary write articles on [https://tharanahansaja.business.site/](https://tharanahansaja.business.site/)
+- 📝 I regularly write articles on [https://tharanahansaja.business.site/](https://tharanahansaja.business.site/)
 
 - 💬 Ask me about **Web Security**
 
 - 📫 How to reach me **tharanahansaja@gmail.com**
 
-- 📘 My Personal Site - https://Hansaja.me
+- 📘 My Personal Site - https://webcrab.lk
 
 - 📘 My Web Site (GUI) - https://tharana.github.io
 
