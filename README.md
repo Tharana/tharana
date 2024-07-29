@@ -27,7 +27,7 @@ imagews -------
 -->
 
 <h1 align="center">Hi 👋, I'm Tharana_👇</h1>
-<h3 align="center">Hi, I'm Tharana Hansaja,🚀 from Srilanka,👨🏽‍💻 currently I'm a Undergraduate in SLIIT 🎓 Besides programming, I enjoy watching movies & listening to music🎼</h3>
+<h3 align="center">Hi, I'm Tharana Hansaja,🚀 from Sri Lanka,👨🏽‍💻 a recent graduate from SLIIT 🎓 Besides programming, I enjoy watching movies, listening to music🎼, and exploring space and astronomy🌌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharana" alt="tharana" /> </p>
 
